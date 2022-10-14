@@ -83,7 +83,7 @@
     "TranslationsDoNotMergeLabel": "",
     "TranslationsMergedMessage":"",
     "TranslationsMergeFailureMessage":"",
-    "TranslationsMergePolicy":"rebase",
+    "TranslationsMergePolicy":"merge",
 
     "StartLoadtestTag": "",
     "StartLoadtestMessage": "",
